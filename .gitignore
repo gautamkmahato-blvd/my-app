@@ -25,6 +25,7 @@
 *.pem
 
 # debug
+ai response/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
